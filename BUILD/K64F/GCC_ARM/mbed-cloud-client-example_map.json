@@ -1,0 +1,312 @@
+[
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 24, 
+            ".bss": 2277, 
+            ".text": 803
+        }
+    }, 
+    {
+        "module": "[lib]/c.a", 
+        "size": {
+            ".data": 2572, 
+            ".bss": 127, 
+            ".text": 60187
+        }
+    }, 
+    {
+        "module": "[lib]/gcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 7996
+        }
+    }, 
+    {
+        "module": "[lib]/misc", 
+        "size": {
+            ".data": 4, 
+            ".bss": 28, 
+            ".text": 204
+        }
+    }, 
+    {
+        "module": "[lib]/nosys.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 32
+        }
+    }, 
+    {
+        "module": "[lib]/stdc++.a", 
+        "size": {
+            ".data": 8, 
+            ".bss": 44, 
+            ".text": 5968
+        }
+    }, 
+    {
+        "module": "easy-connect/atmel-rf-driver", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 146
+        }
+    }, 
+    {
+        "module": "easy-connect/easy-connect.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 128, 
+            ".text": 1960
+        }
+    }, 
+    {
+        "module": "easy-connect/esp8266-driver", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 87
+        }
+    }, 
+    {
+        "module": "easy-connect/stm-spirit1-rf-driver", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 16
+        }
+    }, 
+    {
+        "module": "easy-connect/wifi-ism43362", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 111
+        }
+    }, 
+    {
+        "module": "easy-connect/wifi-x-nucleo-idw01m1", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 22
+        }
+    }, 
+    {
+        "module": "easy-connect/wnc14a2a-driver", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 217
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 40, 
+            ".text": 3857
+        }
+    }, 
+    {
+        "module": "mbed-cloud-client/certificate-enrollment-client", 
+        "size": {
+            ".data": 1, 
+            ".bss": 21, 
+            ".text": 17216
+        }
+    }, 
+    {
+        "module": "mbed-cloud-client/factory-configurator-client", 
+        "size": {
+            ".data": 1, 
+            ".bss": 115, 
+            ".text": 81774
+        }
+    }, 
+    {
+        "module": "mbed-cloud-client/mbed-client", 
+        "size": {
+            ".data": 57, 
+            ".bss": 12, 
+            ".text": 94088
+        }
+    }, 
+    {
+        "module": "mbed-cloud-client/mbed-client-pal", 
+        "size": {
+            ".data": 0, 
+            ".bss": 294, 
+            ".text": 21764
+        }
+    }, 
+    {
+        "module": "mbed-cloud-client/source", 
+        "size": {
+            ".data": 9, 
+            ".bss": 16, 
+            ".text": 20661
+        }
+    }, 
+    {
+        "module": "mbed-cloud-client/update-client-hub", 
+        "size": {
+            ".data": 349, 
+            ".bss": 5622, 
+            ".text": 74117
+        }
+    }, 
+    {
+        "module": "mbed-os/drivers", 
+        "size": {
+            ".data": 0, 
+            ".bss": 84, 
+            ".text": 2809
+        }
+    }, 
+    {
+        "module": "mbed-os/events", 
+        "size": {
+            ".data": 0, 
+            ".bss": 3152, 
+            ".text": 1729
+        }
+    }, 
+    {
+        "module": "mbed-os/features", 
+        "size": {
+            ".data": 278, 
+            ".bss": 54888, 
+            ".text": 165165
+        }
+    }, 
+    {
+        "module": "mbed-os/hal", 
+        "size": {
+            ".data": 4, 
+            ".bss": 68, 
+            ".text": 1933
+        }
+    }, 
+    {
+        "module": "mbed-os/platform", 
+        "size": {
+            ".data": 276, 
+            ".bss": 642, 
+            ".text": 4772
+        }
+    }, 
+    {
+        "module": "mbed-os/rtos", 
+        "size": {
+            ".data": 168, 
+            ".bss": 7105, 
+            ".text": 14076
+        }
+    }, 
+    {
+        "module": "mbed-os/targets", 
+        "size": {
+            ".data": 12, 
+            ".bss": 1182, 
+            ".text": 18769
+        }
+    }, 
+    {
+        "module": "mbed_cloud_dev_credentials.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 1494
+        }
+    }, 
+    {
+        "module": "source/app_platform_setup.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 492
+        }
+    }, 
+    {
+        "module": "source/application_init.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 2435
+        }
+    }, 
+    {
+        "module": "source/blinky.o", 
+        "size": {
+            ".data": 1, 
+            ".bss": 0, 
+            ".text": 760
+        }
+    }, 
+    {
+        "module": "source/platform", 
+        "size": {
+            ".data": 0, 
+            ".bss": 86, 
+            ".text": 1827
+        }
+    }, 
+    {
+        "module": "source/resource.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 433
+        }
+    }, 
+    {
+        "module": "storage-selector/options", 
+        "size": {
+            ".data": 0, 
+            ".bss": 656, 
+            ".text": 132
+        }
+    }, 
+    {
+        "module": "storage-selector/sd-driver", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 5657
+        }
+    }, 
+    {
+        "module": "storage-selector/storage-selector.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 1, 
+            ".text": 261
+        }
+    }, 
+    {
+        "module": "update_default_resources.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 593
+        }
+    }, 
+    {
+        "module": "update_ui_example.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 4, 
+            ".text": 289
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 80356, 
+            "total_flash": 618616
+        }
+    }
+]

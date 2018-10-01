@@ -1,0 +1,31 @@
+BUILD/K64F/GCC_ARM/mbed-cloud-client/factory-configurator-client/ftcd-comm-base/source/ftcd_comm_base.o: \
+ mbed-cloud-client/factory-configurator-client/ftcd-comm-base/source/ftcd_comm_base.cpp \
+ BUILD/K64F/GCC_ARM/mbed_config.h \
+ mbed-cloud-client/factory-configurator-client/utils/utils/pv_endian.h \
+ mbed-cloud-client/factory-configurator-client/logger/logger/pv_log.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal_configuration.h \
+ sotp_fs_config_MbedOS.h \
+ mbed-cloud-client/mbed-client-pal/Configs/pal_config/mbedOS/mbedOS_default.h \
+ mbed-os/rtos/TARGET_CORTEX/rtx4/cmsis_os.h \
+ mbed-os/rtos/TARGET_CORTEX/rtx5/Include/cmsis_os2.h \
+ mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Include/rtx_os.h \
+ mbed-cloud-client/mbed-client-pal/Configs/pal_config/mbedOS/K64F_and_K66F_default.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal_macros.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal.h \
+ mbed-os/features/frameworks/mbed-trace/mbed-trace/mbed_trace.h \
+ mbed-os/features/frameworks/nanostack-libservice/mbed-client-libservice/ns_types.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal_errors.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal_types.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal_fileSystem.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal_rtos.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal_network.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal_TLS.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal_Crypto.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal_update.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal_internalFlash.h \
+ mbed-cloud-client/factory-configurator-client/ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h \
+ mbed-cloud-client/factory-configurator-client/crypto-service/crypto-service/cs_hash.h \
+ mbed-cloud-client/factory-configurator-client/key-config-manager/key-config-manager/kcm_status.h \
+ mbed-cloud-client/mbed-client-pal/Source/PAL-Impl/Services-API/pal_Crypto.h \
+ mbed-cloud-client/factory-configurator-client/utils/utils/fcc_malloc.h
